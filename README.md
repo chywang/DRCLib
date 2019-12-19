@@ -103,9 +103,10 @@ The codes can run properly under the packages of other versions as well.
 This software is built based on some of our own work and others.
 
 1. Fu et al. Learning Semantic Hierarchies via Word Embeddings. ACL 2014
-1. Wang and He. Chinese Hypernym-Hyponym Extraction from User Generated Categories. COLING 2016
-2. Wang et al. A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction. WWW 2019
-4. Wang et al. SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings. ACL 2019
+2. Wang and He. Chinese Hypernym-Hyponym Extraction from User Generated Categories. COLING 2016
+3. Wang et al. Transductive Non-linear Learning for Chinese Hypernym Prediction. ACL 2017
+4. Wang et al. A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction. WWW 2019
+5. Wang et al. SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings. ACL 2019
 
 More research works can be found here: https://chywang.github.io.
 
